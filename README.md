@@ -26,3 +26,7 @@
 - **C# Programming Language**
 - **.NET Framework / .NET Core**
 - **LINQ, Collections, and File Handling**
+
+## https://projectvalley.co/dapper-with-stored-procedure-tutorials/
+- sushilthakur9792@gmail.com
+- Sushil@#32189
